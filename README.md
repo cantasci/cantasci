@@ -9,7 +9,7 @@ Bridging high-scale system design with elite frontend engineering. Specializing 
 
 - **AI-Enhanced Frontend:** Integrating LLMs and Agentic Workflows directly into the UI layer using **Vercel AI SDK**, **LangChain.js**, and **TensorFlow.js**.
 - **Architecture:** Designing resilient, event-driven systems and micro-frontends that scale to millions of users.
-- **Cross-Platform Mastery:** Building unified experiences across Web (React/Angular) and Mobile (React Native) with shared business logic.
+- **Cross-Platform Mastery:** Building unified experiences across Web (React/Angular/Vue) and Mobile (React Native/Native iOS, Native Android) with shared business logic.
 
 ---
 
@@ -35,8 +35,8 @@ Bridging high-scale system design with elite frontend engineering. Specializing 
 ### 📊 Performance & Impact
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=cantasci&show_icons=true&theme=calm&include_all_commits=true&count_private=true&border_radius=10"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cantasci&layout=compact&langs_count=8&theme=calm&border_radius=10"/>
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=cantasci&show_icons=true&theme=tokyonight" alt="Can's Stats" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=cantasci&layout=compact&theme=tokyonight" alt="Can's Languages" />
 </p>
 
 ---
